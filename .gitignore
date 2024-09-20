@@ -1,0 +1,88 @@
+# Node.js ile ilgili dosyalar
+node_modules/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# SAPUI5 veya UI5 projeleri için kullanılabilecek genel dosyalar
+.DS_Store
+*.env
+*.log
+*.local
+*.bak
+*.swp
+*.tmp
+
+# Proje dizinleri
+D:/SAPUI5/project2denemesi/project1/node_modules/
+D:/SAPUI5/project2denemesi/project1/webapp/resources.json
+
+# IDE ve geliştirme ortamı dosyaları
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Windows dosyaları
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Mac OS dosyaları
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+# Build output directories
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Compiled files
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Environment variable files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+*.old
+*.backup
+*.iml
+*.ipr
+*.iws
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+*.swr
