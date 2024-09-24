@@ -44,8 +44,8 @@ Ensure that the following tools are installed on your system:
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-username/sapui5-empty-template.git
-cd sapui5-empty-template/project1
+git clone https://github.com/ismntr/blankSAPUI5project.git
+cd blankSAPUI5project/project1
 ```
 
 #### 2. Install Dependencies
